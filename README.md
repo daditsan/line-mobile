@@ -16,6 +16,8 @@ A mobile social media app built with React Native, where you can connect with fr
   - [Screenshots](#screenshots)
     - [Register Screen](#register-screen)
     - [Login Screen](#login-screen)
+    - [Home Screen](#home-screen)
+    - [Post Detail Screen](#post-detail-screen)
   - [Contact Information](#contact-information)
 
 ## Introduction
@@ -67,6 +69,8 @@ npm start
 
 ## Screenshots
 
+These are screenshots of the app screens, taken from Iphone 11.
+
 ### Register Screen
 
 ![Register](Register_Screen.PNG)
@@ -74,6 +78,14 @@ npm start
 ### Login Screen
 
 ![Login](Login_Screen.PNG)
+
+### Home Screen
+
+![Home](Home_Screen.PNG)
+
+### Post Detail Screen
+
+![Post Detail Screen](Post_Detail_Screen.PNG)
 
 ## Contact Information
 
