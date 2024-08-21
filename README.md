@@ -20,6 +20,7 @@ A mobile social media app built with React Native, where you can connect with fr
     - [Post Detail Screen](#post-detail-screen)
     - [Create Post Screen](#create-post-screen)
     - [Search User Screen](#search-user-screen)
+    - [User Profile Screen](#user-profile-screen)
   - [Contact Information](#contact-information)
 
 ## Introduction
@@ -96,6 +97,10 @@ These are screenshots of the app screens, taken from Iphone 11.
 ### Search User Screen
 
 ![Search User Screen](Search_User_Screen.PNG)
+
+### User Profile Screen
+
+![User Profile Screen](User_Profile_Screen.PNG)
 
 ## Contact Information
 
