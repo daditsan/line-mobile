@@ -14,7 +14,8 @@ A mobile social media app built with React Native, where you can connect with fr
     - [Prerequisites 2](#prerequisites-2)
     - [Setup Instructions](#setup-instructions)
   - [Screenshots](#screenshots)
-    - [Homepage](#homepage)
+    - [Register Screen](#register-screen)
+    - [Login Screen](#login-screen)
   - [Contact Information](#contact-information)
 
 ## Introduction
@@ -40,7 +41,7 @@ This social media mobile application is a way to stay in touch, discover new con
 - Node.js
 - MongoDB
 - Redis
-- Expo
+- Expo GO
 
 ### Prerequisites 2
 
@@ -66,9 +67,13 @@ npm start
 
 ## Screenshots
 
-### Homepage
+### Register Screen
 
-<!-- ![Homepage](Homepage.png) -->
+![Register](Register_Screen.PNG)
+
+### Login Screen
+
+![Login](Login_Screen.PNG)
 
 ## Contact Information
 
